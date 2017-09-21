@@ -1,0 +1,28 @@
+{
+  "name": "api-notebook-react-editor",
+  "version": "0.1.0",
+  "description": "API Notebooks forked Monaco Editor",
+  "main": "index.js",
+  "scripts": {
+    "build": "bash build.sh"
+  },
+  "keywords": [
+    "api",
+    "notebook",
+    "monaco",
+    "editor"
+  ],
+  "author": "MuleSoft",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescalante/api-notebook-react-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nescalante/api-notebook-react-editor/issues"
+  },
+  "homepage": "https://github.com/nescalante/api-notebook-react-editor#readme",
+  "devDependencies": {
+    "uglify-js": "^3.1.1"
+  }
+}
